@@ -1,5 +1,5 @@
 # Application for transporting parcels
-Java
+Java, Json
 
 Topic: Fundamentals of Software Engineering
 Professor: Pescaru Alexnadru-Mihai
